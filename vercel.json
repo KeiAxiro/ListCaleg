@@ -9,6 +9,10 @@
     {
       "src": "/(.*)",
       "dest": "/app.js"
+    },
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1"
     }
   ]
 }

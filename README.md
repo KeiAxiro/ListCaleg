@@ -7,10 +7,11 @@ Hal ini bertujuan untuk memudahkan masyarakat umum untuk mengetahui nama-nama se
 
 ## Tools
 Kami Mengunakan
-- HTML
+- EJS
 - Bootstrap 5
 - Javascript
-- JQuery
+- Express.js
+- Node.js
 
 ## Authors
 

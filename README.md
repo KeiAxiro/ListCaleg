@@ -28,4 +28,7 @@ Kami Mengunakan
 ## Screenshot
 Kami telah bekerja keras untuk menghadirkan situs web yang mudah digunakan dan menarik secara visual yang menampilkan semua produk dan layanan kami. Kami tidak sabar menunggu Anda untuk melihatnya!
 
-Kami Akan Memperlihatkan tampilan website kami SEGERA!!
+### Desktop
+![Desktop Screenshot](https://i.imgur.com/V8kn0ac.png)
+### Mobile
+![Desktop Screenshot](https://i.imgur.com/SqfgJiu.png)

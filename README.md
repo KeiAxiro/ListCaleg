@@ -23,8 +23,9 @@ Kami Mengunakan
 ## Documentation
 
 - [API Caleg Pemilu 2024](https://caleg.zakiego.com/)
-- [JQuery Docs](https://devdocs.io/jquery/)
 - [Bootstrap 5 Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Express.js Docs](https://expressjs.com/)
+- [Ejs Docs](https://ejs.co/)
   
 
 ## Screenshot

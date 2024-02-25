@@ -17,7 +17,8 @@ Kami Mengunakan
 
 - [@KeiAxiro](https://www.github.com/KeiAxiro) Project Manager
 - [@hadiahadinata](https://www.github.com/hadiahadinata)
-- [@Irwansyah](https://www.github.com/irwansyah22)
+- [@irwansyah22](https://www.github.com/irwansyah22)
+- [@faisalrizk](https://github.com/faisalrizk)
 
 ## Documentation
 
